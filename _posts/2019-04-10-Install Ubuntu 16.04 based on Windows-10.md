@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Windows 10 + Ubuntu 16.04 Multi Booting 환경 구성"
-date" 2019-04-10 12:00
+date: 2019-04-10 12:00
 categories: Linux
 tags: Linux, Windows
 ---
