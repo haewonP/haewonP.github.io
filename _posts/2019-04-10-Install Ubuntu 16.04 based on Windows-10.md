@@ -72,11 +72,45 @@ Windows 10이 설치된 컴퓨터에 Ubuntu 16.04를 설치하여 사용하는 �
 
 ##### Ubuntu 16.04 설치
 
+1. Install type → Something else 선택
 
+   ![이미지 28](https://user-images.githubusercontent.com/29933947/55862848-41f00280-5bb4-11e9-9ad6-06526ed49e9c.png)
 
+   
 
+   
 
+2. 파티션 설정 - Swap
 
+   
+
+   ![이미지 29](https://user-images.githubusercontent.com/29933947/55862850-41f00280-5bb4-11e9-8e2a-9e859de213b0.png)
+
+   
+
+   
+
+3. 파티션 설정 - 루트(root)
+
+   
+
+   ![이미지 30](https://user-images.githubusercontent.com/29933947/55862851-41f00280-5bb4-11e9-9450-ab1859937a9b.png)
+
+   
+
+   
+
+4. 파티션 설정 - 부트로더 설치 경로
+
+   . Windows 10이 설치 되어 있는 디스크 선택(Default로 선택되어 있어 따로 수정할 필요 없음)
+
+   
+
+   ![이미지 31](https://user-images.githubusercontent.com/29933947/55863125-df4b3680-5bb4-11e9-8935-bcaa962b37cc.png)
+
+   
+
+   ##### 이 후 설치 과정은 기본 Ubuntu 설치 과정과 동일함
 
 
 
