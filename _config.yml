@@ -13,19 +13,19 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Cynp-Blogs
+title: Devving
 description: > # this means to ignore newlines until "baseurl:"
   Material theme based on <a href="http://materializecss.com">Materialize.css</a> for jekyll sites
 baseurl: 
-url: "https://cynpna.github.io"
+url: "https://haewonP.github.io"
 permalink: /:year/:month/:day/:title
-repository: cynpna/cynpna.github.io
+repository: haewonP/haewonP.github.io
 paginate: 5
 
 # MatJek specific configurations
 # cynp specific configurations - 171124
-github_profile: "https://github.com/cynpna"
-user: "cynpna"
+github_profile: "https://github.com/haewonP"
+user: "haewonP"
 user_email: "not yet"
 contact_url: "https://goo.gl/tVljbV"
 google_tracking_id: "UA-96359860-1"
